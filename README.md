@@ -3,12 +3,10 @@
 This repository contains an implementation to the ECCV 2020 paper: "PointMixup: Augmentation for point cloud".
 
 ### Install
-============================
-- python3.6, pytorch 1.2, tensorboardX
+- Required packages: python3.6, pytorch 1.2, tensorboardX
 - pip install git+git://github.com/erikwijmans/etw_pytorch_utils.git@v1.1.1#egg=etw_pytorch_utils
 - pip install --no-cache --upgrade git+https://github.com/dongzhuoyao/pytorchgo.git
 - sh setup.sh
-============================
 
 ### Run
 
